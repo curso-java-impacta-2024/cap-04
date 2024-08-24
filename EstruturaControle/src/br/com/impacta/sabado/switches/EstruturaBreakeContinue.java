@@ -24,5 +24,9 @@ public class EstruturaBreakeContinue {
 			}
 			System.out.println("Valor de num = " + num);
 		}
+		for (int i = 5; i <=10;) {
+			System.out.println(i);
+			 i++;
+		}
 	}	
 }
